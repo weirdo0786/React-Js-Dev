@@ -9,10 +9,6 @@ export default function Counter() {
         setCount((currCount) =>{
             return currCount + 1;
         })
-        setCount((currCount) =>{
-            return currCount + 1;
-        })
-        // console.log(count); 
     }
     return (
         <>
