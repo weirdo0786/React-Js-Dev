@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1>State in react</h1>
-      <h2>Welcome to React JS</h2>
+      <h2>Welcome to React JS.</h2>
       {/* <Counter /> */}
       <LikeButton />
       <Lottery />
